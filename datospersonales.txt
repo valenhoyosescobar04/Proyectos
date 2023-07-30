@@ -1,0 +1,5 @@
+datospersonales.txt
+valentina hoyos
+Marawi
+fruta favorita: sandia
+comida: pizza
